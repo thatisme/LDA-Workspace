@@ -1,0 +1,495 @@
+,Unnamed: 0,text,star,original,cluster,action_cluster
+15,15,"['bad', 'product']",1,Very bad product,2,1
+20,20,"['bad', 'product']",1,Very worst product,2,1
+22,22,"['bad', 'experience']",1,Worst experience,2,1
+23,23,"['cool', 'bad']",1,Cooling is very bad,2,4
+24,24,"['bad', 'cooling', 'problem']",1,Very bad Cooling problem,2,2
+32,32,"['bad', 'product', 'technician', 'good', 'installation', 'cool', 'low', 'bad', 'recommend', 'everyone']",1,Very bad product and technician not good the installation cooling very low very bad not recommended by everyone,2,4
+38,38,"['day', 'installation', 'cool', 'bad', 'product']",1,20 days installation not cooling bad product not,2,4
+51,51,"['poor', 'low', 'quality', 'product', 'waste', 'money', 'buy', 'product', 'bad', 'experience', 'also', 'good', 'customer', 'service']",1,Very poor and low quality products and waste of money don't buy this product very bad experience also not good customer service,2,1
+59,59,"['bad', 'quality', 'ac', 'take', 'much', 'time', 'cool', 'less', 'cool', 'bad', 'quality', 'ac', 'never', 'buy', 'product', 'lg', 'specially', 'ac']",1,"Very bad quality AC took so much time for cooling and very less cooling
+Worst quality ac never buy any product from LG specially AC",2,3
+71,71,"['bad', 'experience', 'product']",1,Very bad experience in this product..,2,1
+72,72,"['cool', 'bad', 'ac']",1,Not cooling worst ac,2,3
+77,77,"['bad', 'experience', 'ever']",1,Worst Experience ever.,2,2
+85,85,"['bad', 'product']",1,Very bad product,2,1
+89,89,"['bad', 'experience']",1,Very bad experience,2,1
+91,91,"['bad', 'product']",1,Worst product,2,1
+104,104,['bad'],1,Very bad,2,2
+119,119,"['bad', 'product']",1,Very bad product,2,1
+194,194,"['product', 'good', 'installation', 'people', 'bad']",5,Product is good but installation people r worst,2,4
+215,215,"['bad', 'product']",1,Very bad product,2,1
+220,220,"['bad', 'product']",1,Very worst product,2,1
+222,222,"['bad', 'experience']",1,Worst experience,2,1
+223,223,"['cool', 'bad']",1,Cooling is very bad,2,4
+224,224,"['bad', 'cooling', 'problem']",1,Very bad Cooling problem,2,2
+232,232,"['bad', 'product', 'technician', 'good', 'installation', 'cool', 'low', 'bad', 'recommend', 'everyone']",1,Very bad product and technician not good the installation cooling very low very bad not recommended by everyone,2,4
+238,238,"['day', 'installation', 'cool', 'bad', 'product']",1,20 days installation not cooling bad product not,2,4
+251,251,"['poor', 'low', 'quality', 'product', 'waste', 'money', 'buy', 'product', 'bad', 'experience', 'also', 'good', 'customer', 'service']",1,Very poor and low quality products and waste of money don't buy this product very bad experience also not good customer service,2,1
+259,259,"['bad', 'quality', 'ac', 'take', 'much', 'time', 'cool', 'less', 'cool', 'bad', 'quality', 'ac', 'never', 'buy', 'product', 'lg', 'specially', 'ac']",1,"Very bad quality AC took so much time for cooling and very less cooling
+Worst quality ac never buy any product from LG specially AC",2,3
+271,271,"['bad', 'experience', 'product']",1,Very bad experience in this product..,2,1
+272,272,"['cool', 'bad', 'ac']",1,Not cooling worst ac,2,3
+277,277,"['bad', 'experience', 'ever']",1,Worst Experience ever.,2,2
+285,285,"['bad', 'product']",1,Very bad product,2,1
+289,289,"['bad', 'experience']",1,Very bad experience,2,1
+291,291,"['bad', 'product']",1,Worst product,2,1
+315,315,"['bad', 'product']",1,Very bad product,2,1
+320,320,"['bad', 'product']",1,Very worst product,2,1
+322,322,"['bad', 'experience']",1,Worst experience,2,1
+323,323,"['cool', 'bad']",1,Cooling is very bad,2,4
+324,324,"['bad', 'cooling', 'problem']",1,Very bad Cooling problem,2,2
+332,332,"['bad', 'product', 'technician', 'good', 'installation', 'cool', 'low', 'bad', 'recommend', 'everyone']",1,Very bad product and technician not good the installation cooling very low very bad not recommended by everyone,2,4
+338,338,"['day', 'installation', 'cool', 'bad', 'product']",1,20 days installation not cooling bad product not,2,4
+351,351,"['poor', 'low', 'quality', 'product', 'waste', 'money', 'buy', 'product', 'bad', 'experience', 'also', 'good', 'customer', 'service']",1,Very poor and low quality products and waste of money don't buy this product very bad experience also not good customer service,2,1
+359,359,"['bad', 'quality', 'ac', 'take', 'much', 'time', 'cool', 'less', 'cool', 'bad', 'quality', 'ac', 'never', 'buy', 'product', 'lg', 'specially', 'ac']",1,"Very bad quality AC took so much time for cooling and very less cooling
+Worst quality ac never buy any product from LG specially AC",2,3
+371,371,"['bad', 'experience', 'product']",1,Very bad experience in this product..,2,1
+372,372,"['cool', 'bad', 'ac']",1,Not cooling worst ac,2,3
+377,377,"['bad', 'experience', 'ever']",1,Worst Experience ever.,2,2
+385,385,"['bad', 'product']",1,Very bad product,2,1
+389,389,"['bad', 'experience']",1,Very bad experience,2,1
+391,391,"['bad', 'product']",1,Worst product,2,1
+414,414,"['bad', 'product', 'cooling']",2,Bad product no cooling,2,2
+430,430,"['ok', 'product', 'neither', 'good', 'bad']",3,"Just Ok product, neither Good nor bad.",2,4
+442,442,"['product', 'good', 'delivery', 'bad']",4,Product is very good and Delivery very bad,2,1
+515,515,"['bad', 'product']",1,Very bad product,2,1
+520,520,"['bad', 'product']",1,Very worst product,2,1
+522,522,"['bad', 'experience']",1,Worst experience,2,1
+523,523,"['cool', 'bad']",1,Cooling is very bad,2,4
+524,524,"['bad', 'cooling', 'problem']",1,Very bad Cooling problem,2,2
+532,532,"['bad', 'product', 'technician', 'good', 'installation', 'cool', 'low', 'bad', 'recommend', 'everyone']",1,Very bad product and technician not good the installation cooling very low very bad not recommended by everyone,2,4
+538,538,"['day', 'installation', 'cool', 'bad', 'product']",1,20 days installation not cooling bad product not,2,4
+551,551,"['poor', 'low', 'quality', 'product', 'waste', 'money', 'buy', 'product', 'bad', 'experience', 'also', 'good', 'customer', 'service']",1,Very poor and low quality products and waste of money don't buy this product very bad experience also not good customer service,2,1
+559,559,"['bad', 'quality', 'ac', 'take', 'much', 'time', 'cool', 'less', 'cool', 'bad', 'quality', 'ac', 'never', 'buy', 'product', 'lg', 'specially', 'ac']",1,"Very bad quality AC took so much time for cooling and very less cooling
+Worst quality ac never buy any product from LG specially AC",2,3
+571,571,"['bad', 'experience', 'product']",1,Very bad experience in this product..,2,1
+572,572,"['cool', 'bad', 'ac']",1,Not cooling worst ac,2,3
+577,577,"['bad', 'experience', 'ever']",1,Worst Experience ever.,2,2
+585,585,"['bad', 'product']",1,Very bad product,2,1
+589,589,"['bad', 'experience']",1,Very bad experience,2,1
+591,591,"['bad', 'product']",1,Worst product,2,1
+615,615,"['bad', 'product']",1,Very bad product,2,1
+620,620,"['bad', 'product']",1,Very worst product,2,1
+622,622,"['bad', 'experience']",1,Worst experience,2,1
+623,623,"['cool', 'bad']",1,Cooling is very bad,2,4
+624,624,"['bad', 'cooling', 'problem']",1,Very bad Cooling problem,2,2
+632,632,"['bad', 'product', 'technician', 'good', 'installation', 'cool', 'low', 'bad', 'recommend', 'everyone']",1,Very bad product and technician not good the installation cooling very low very bad not recommended by everyone,2,4
+638,638,"['day', 'installation', 'cool', 'bad', 'product']",1,20 days installation not cooling bad product not,2,4
+651,651,"['poor', 'low', 'quality', 'product', 'waste', 'money', 'buy', 'product', 'bad', 'experience', 'also', 'good', 'customer', 'service']",1,Very poor and low quality products and waste of money don't buy this product very bad experience also not good customer service,2,1
+659,659,"['bad', 'quality', 'ac', 'take', 'much', 'time', 'cool', 'less', 'cool', 'bad', 'quality', 'ac', 'never', 'buy', 'product', 'lg', 'specially', 'ac']",1,"Very bad quality AC took so much time for cooling and very less cooling
+Worst quality ac never buy any product from LG specially AC",2,3
+671,671,"['bad', 'experience', 'product']",1,Very bad experience in this product..,2,1
+672,672,"['cool', 'bad', 'ac']",1,Not cooling worst ac,2,3
+677,677,"['bad', 'experience', 'ever']",1,Worst Experience ever.,2,2
+685,685,"['bad', 'product']",1,Very bad product,2,1
+689,689,"['bad', 'experience']",1,Very bad experience,2,1
+691,691,"['bad', 'product']",1,Worst product,2,1
+704,704,"['bad', 'bad', 'experience', 'good']",1,Worst of worst experience. This is not good,2,1
+748,748,['bad'],1,Very bad,2,2
+763,763,"['bad', 'product']",1,Very bad product,2,1
+838,838,"['product', 'good', 'installation', 'people', 'bad']",5,Product is good but installation people r worst,2,4
+859,859,"['bad', 'product']",1,Very bad product,2,1
+864,864,"['bad', 'product']",1,Very worst product,2,1
+866,866,"['bad', 'experience']",1,Worst experience,2,1
+867,867,"['cool', 'bad']",1,Cooling is very bad,2,4
+868,868,"['bad', 'cooling', 'problem']",1,Very bad Cooling problem,2,2
+876,876,"['bad', 'product', 'technician', 'good', 'installation', 'cool', 'low', 'bad', 'recommend', 'everyone']",1,Very bad product and technician not good the installation cooling very low very bad not recommended by everyone,2,4
+882,882,"['day', 'installation', 'cool', 'bad', 'product']",1,20 days installation not cooling bad product not,2,4
+895,895,"['poor', 'low', 'quality', 'product', 'waste', 'money', 'buy', 'product', 'bad', 'experience', 'also', 'good', 'customer', 'service']",1,Very poor and low quality products and waste of money don't buy this product very bad experience also not good customer service,2,1
+903,903,"['bad', 'quality', 'ac', 'take', 'much', 'time', 'cool', 'less', 'cool', 'bad', 'quality', 'ac', 'never', 'buy', 'product', 'lg', 'specially', 'ac']",1,"Very bad quality AC took so much time for cooling and very less cooling
+Worst quality ac never buy any product from LG specially AC",2,3
+915,915,"['bad', 'experience', 'product']",1,Very bad experience in this product..,2,1
+916,916,"['cool', 'bad', 'ac']",1,Not cooling worst ac,2,3
+921,921,"['bad', 'experience', 'ever']",1,Worst Experience ever.,2,2
+929,929,"['bad', 'product']",1,Very bad product,2,1
+933,933,"['bad', 'experience']",1,Very bad experience,2,1
+935,935,"['bad', 'product']",1,Worst product,2,1
+959,959,"['bad', 'product']",1,Very bad product,2,1
+964,964,"['bad', 'product']",1,Very worst product,2,1
+966,966,"['bad', 'experience']",1,Worst experience,2,1
+967,967,"['cool', 'bad']",1,Cooling is very bad,2,4
+968,968,"['bad', 'cooling', 'problem']",1,Very bad Cooling problem,2,2
+976,976,"['bad', 'product', 'technician', 'good', 'installation', 'cool', 'low', 'bad', 'recommend', 'everyone']",1,Very bad product and technician not good the installation cooling very low very bad not recommended by everyone,2,4
+982,982,"['day', 'installation', 'cool', 'bad', 'product']",1,20 days installation not cooling bad product not,2,4
+995,995,"['poor', 'low', 'quality', 'product', 'waste', 'money', 'buy', 'product', 'bad', 'experience', 'also', 'good', 'customer', 'service']",1,Very poor and low quality products and waste of money don't buy this product very bad experience also not good customer service,2,1
+1003,1003,"['bad', 'quality', 'ac', 'take', 'much', 'time', 'cool', 'less', 'cool', 'bad', 'quality', 'ac', 'never', 'buy', 'product', 'lg', 'specially', 'ac']",1,"Very bad quality AC took so much time for cooling and very less cooling
+Worst quality ac never buy any product from LG specially AC",2,3
+1015,1015,"['bad', 'experience', 'product']",1,Very bad experience in this product..,2,1
+1016,1016,"['cool', 'bad', 'ac']",1,Not cooling worst ac,2,3
+1021,1021,"['bad', 'experience', 'ever']",1,Worst Experience ever.,2,2
+1029,1029,"['bad', 'product']",1,Very bad product,2,1
+1033,1033,"['bad', 'experience']",1,Very bad experience,2,1
+1035,1035,"['bad', 'product']",1,Worst product,2,1
+1055,1055,"['product', 'bad', 'happy', 'product', 'ac', 'work', 'cool']",1,Product is very very bad. I am not happy this product. AC not working cool,2,4
+1056,1056,"['bad', 'experience', 'flipkart']",1,Bad experience... from Flipkart..,2,1
+1082,1082,['bad'],1,Very bad,2,2
+1090,1090,"['bad', 'product']",1,Very bad product,2,1
+1130,1130,"['bad', 'ac', 'lg', 'service', 'poor']",2,"This is very bad AC, & LG service so poor,",2,3
+1159,1159,"['bad', 'product']",1,Very bad product,2,1
+1164,1164,"['bad', 'product']",1,Very worst product,2,1
+1166,1166,"['bad', 'experience']",1,Worst experience,2,1
+1167,1167,"['cool', 'bad']",1,Cooling is very bad,2,4
+1168,1168,"['bad', 'cooling', 'problem']",1,Very bad Cooling problem,2,2
+1176,1176,"['bad', 'product', 'technician', 'good', 'installation', 'cool', 'low', 'bad', 'recommend', 'everyone']",1,Very bad product and technician not good the installation cooling very low very bad not recommended by everyone,2,4
+1182,1182,"['day', 'installation', 'cool', 'bad', 'product']",1,20 days installation not cooling bad product not,2,4
+1195,1195,"['poor', 'low', 'quality', 'product', 'waste', 'money', 'buy', 'product', 'bad', 'experience', 'also', 'good', 'customer', 'service']",1,Very poor and low quality products and waste of money don't buy this product very bad experience also not good customer service,2,1
+1203,1203,"['bad', 'quality', 'ac', 'take', 'much', 'time', 'cool', 'less', 'cool', 'bad', 'quality', 'ac', 'never', 'buy', 'product', 'lg', 'specially', 'ac']",1,"Very bad quality AC took so much time for cooling and very less cooling
+Worst quality ac never buy any product from LG specially AC",2,3
+1215,1215,"['bad', 'experience', 'product']",1,Very bad experience in this product..,2,1
+1216,1216,"['cool', 'bad', 'ac']",1,Not cooling worst ac,2,3
+1221,1221,"['bad', 'experience', 'ever']",1,Worst Experience ever.,2,2
+1229,1229,"['bad', 'product']",1,Very bad product,2,1
+1233,1233,"['bad', 'experience']",1,Very bad experience,2,1
+1235,1235,"['bad', 'product']",1,Worst product,2,1
+1282,1282,['bad'],3,Not bad,2,2
+1289,1289,"['ok', 'bad']",3,Ok not bad,2,2
+1346,1346,"['bad', 'product']",1,Very bad product,2,1
+1352,1352,"['bad', 'product', 'always', 'drop', 'water']",1,Very bad product. Always dropping water.,2,2
+1382,1382,"['product', 'good', 'delivery', 'bad']",4,Product is good but delivery is very worst,2,1
+1422,1422,"['paint', 'product', 'bad']",4,Paint of its product is worst,2,4
+1496,1496,"['cool', 'freezer', 'really', 'bad', 'product']",1,Doesn't cool the freezer after a while. Really bad product,2,4
+1509,1509,"['bad', 'product', 'warranty', 'compartment', 'fan', 'work', 'panel', 'issue', 'bad', 'model', 'lg']",1,Worst product after 1 warranty both compartment fan not working panel issue worst model from LG,2,4
+1510,1510,['bad'],1,Very bad,2,2
+1514,1514,"['bad', 'product']",1,Bad product,2,1
+1521,1521,"['bad', 'product']",1,Very bad product 😞,2,1
+1559,1559,['bad'],2,Bad,2,2
+1566,1566,"['product', 'bad', 'lg', 'servicing', 'also', 'bad', 'model', 'fridge', 'copresser', 'problem']",2,This product is very bad and lg servicing also bad this model fridge copresser problem,2,1
+1596,1596,"['cool', 'freezer', 'really', 'bad', 'product']",1,Doesn't cool the freezer after a while. Really bad product,2,4
+1609,1609,"['bad', 'product', 'warranty', 'compartment', 'fan', 'work', 'panel', 'issue', 'bad', 'model', 'lg']",1,Worst product after 1 warranty both compartment fan not working panel issue worst model from LG,2,4
+1610,1610,['bad'],1,Very bad,2,2
+1614,1614,"['bad', 'product']",1,Bad product,2,1
+1621,1621,"['bad', 'product']",1,Very bad product 😞,2,1
+1659,1659,['bad'],2,Bad,2,2
+1666,1666,"['product', 'bad', 'lg', 'servicing', 'also', 'bad', 'model', 'fridge', 'copresser', 'problem']",2,This product is very bad and lg servicing also bad this model fridge copresser problem,2,1
+1691,1691,"['bad', 'lg', 'product', 'bad']",1,"Very worst
+Lg product worst",2,2
+1705,1705,"['good', 'product', 'flipkart', 'service', 'also', 'bad']",1,Not a good product and Flipkart service is also very bad,2,1
+1712,1712,['bad'],1,Very bad,2,2
+1714,1714,"['bad', 'product']",1,Very bad product,2,1
+1721,1721,"['bad', 'product']",1,Very bad product,2,1
+1726,1726,"['product', 'good', 'working', 'experience', 'bad']",1,"Product is not good working , my experience is very bad",2,1
+1792,1792,"['bad', 'product', 'please', 'go']",1,Very bad product please don't go for it,2,1
+1796,1796,['bad'],1,very bad,2,2
+1805,1805,['bad'],2,Very bad,2,2
+1896,1896,"['cool', 'freezer', 'really', 'bad', 'product']",1,Doesn't cool the freezer after a while. Really bad product,2,4
+1909,1909,"['bad', 'product', 'warranty', 'compartment', 'fan', 'work', 'panel', 'issue', 'bad', 'model', 'lg']",1,Worst product after 1 warranty both compartment fan not working panel issue worst model from LG,2,4
+1910,1910,['bad'],1,Very bad,2,2
+1914,1914,"['bad', 'product']",1,Bad product,2,1
+1921,1921,"['bad', 'product']",1,Very bad product 😞,2,1
+1959,1959,['bad'],2,Bad,2,2
+1966,1966,"['product', 'bad', 'lg', 'servicing', 'also', 'bad', 'model', 'fridge', 'copresser', 'problem']",2,This product is very bad and lg servicing also bad this model fridge copresser problem,2,1
+1993,1993,"['bad', 'product']",1,Very bad product,2,1
+1999,1999,"['bad', 'product', 'always', 'drop', 'water']",1,Very bad product. Always dropping water.,2,2
+2029,2029,"['product', 'good', 'delivery', 'bad']",4,Product is good but delivery is very worst,2,1
+2069,2069,"['paint', 'product', 'bad']",4,Paint of its product is worst,2,4
+2104,2104,"['bad', 'experience', 'flipcart', 'word', 'really', 'bad', 'experience']",1,Very very bad experience from flipcart. I haven't any word for it .really bad experience,2,1
+2193,2193,['bad'],1,Bad,2,2
+2200,2200,['bad'],1,very bad,2,2
+2207,2207,"['bad', 'prodect']",2,Bad prodect,2,2
+2291,2291,"['bad', 'lg', 'product', 'bad']",1,"Very worst
+Lg product worst",2,2
+2305,2305,"['good', 'product', 'flipkart', 'service', 'also', 'bad']",1,Not a good product and Flipkart service is also very bad,2,1
+2312,2312,['bad'],1,Very bad,2,2
+2314,2314,"['bad', 'product']",1,Very bad product,2,1
+2321,2321,"['bad', 'product']",1,Very bad product,2,1
+2326,2326,"['product', 'good', 'working', 'experience', 'bad']",1,"Product is not good working , my experience is very bad",2,1
+2395,2395,"['bad', 'brand']",1,Worst brand,2,4
+2400,2400,"['bad', 'product', 'bad', 'customer', 'care', 'bad', 'installation', 'team', 'does', 'go', 'installation', 'work', 'tiv']",1,VERY BAD PRODUCT AND VERY WORST CUSTOMER CARE AND VERY WORST INSTALLATION TEAM AND 5DOES GONE BUT NOT INSTALLATION WORK FOR TIV,2,4
+2405,2405,"['disappointed', 'item', 'bad', 'picture', 'quality', 'sound', 'quality', 'also', 'bad']",1,"Disappointed this item
+Bad picture quality
+Sound quality is also very bad",2,1
+2417,2417,"['bad', 'tv']",1,Worst tv,2,2
+2422,2422,"['bad', 'product', 'waste', 'money']",1,Worst product and waste of money,2,1
+2425,2425,"['bad', 'display']",1,Worst display,2,2
+2428,2428,"['verry', 'bad', 'product']",1,Verry bad product,2,3
+2429,2429,"['bad', 'picture', 'quality', 'bad', 'product', 'total', 'money', 'waste']",1,"Bad picture quality, bad product, total money waste.",2,1
+2432,2432,['bad'],1,Very worst,2,2
+2436,2436,"['bad', 'product', 'mic']",1,Worst product. It do not have mic,2,2
+2438,2438,"['bad', 'quality', 'service', 'poor']",1,Bad quality service very poor,2,1
+2441,2441,"['bad', 'experience', 'vest', 'product']",1,Worst experience vest product,2,1
+2445,2445,"['picture', 'quality', 'bad']",2,picture quality is very bad,2,1
+2560,2560,"['bad', 'brand']",1,Worst brand,2,4
+2565,2565,"['bad', 'product', 'bad', 'customer', 'care', 'bad', 'installation', 'team', 'does', 'go', 'installation', 'work', 'tiv']",1,VERY BAD PRODUCT AND VERY WORST CUSTOMER CARE AND VERY WORST INSTALLATION TEAM AND 5DOES GONE BUT NOT INSTALLATION WORK FOR TIV,2,4
+2570,2570,"['disappointed', 'item', 'bad', 'picture', 'quality', 'sound', 'quality', 'also', 'bad']",1,"Disappointed this item
+Bad picture quality
+Sound quality is also very bad",2,1
+2582,2582,"['bad', 'tv']",1,Worst tv,2,2
+2587,2587,"['bad', 'product', 'waste', 'money']",1,Worst product and waste of money,2,1
+2590,2590,"['bad', 'display']",1,Worst display,2,2
+2593,2593,"['verry', 'bad', 'product']",1,Verry bad product,2,3
+2594,2594,"['bad', 'picture', 'quality', 'bad', 'product', 'total', 'money', 'waste']",1,"Bad picture quality, bad product, total money waste.",2,1
+2597,2597,['bad'],1,Very worst,2,2
+2601,2601,"['bad', 'product', 'mic']",1,Worst product. It do not have mic,2,2
+2603,2603,"['bad', 'quality', 'service', 'poor']",1,Bad quality service very poor,2,1
+2606,2606,"['bad', 'experience', 'vest', 'product']",1,Worst experience vest product,2,1
+2610,2610,"['picture', 'quality', 'bad']",2,picture quality is very bad,2,1
+2728,2728,"['bad', 'ever', 'buy', 'lg', 'product', 'beg', 'installation', 'tv', 'slow', 'view', 'angel', 'bad']",1,Worst ever. Do not buy Lg product. You have to beg them for installation. Tv is very slow and view angel is worst,2,2
+2738,2738,"['bad', 'condition']",1,Very bad condition,2,2
+2739,2739,"['bad', 'lg', 'receive', 'va', 'panel', 'tv', 'watch', 'cricket', 'bad', 'memc', 'bad', 'work']",1,Very bad from Lg. I have received VA panel 55 tv and when watching cricket is very bad memc worst working,2,2
+2750,2750,['bad'],1,Worst,2,2
+2754,2754,"['bad', 'tv', 'brother', 'konoddu', 'service', 'number', 'one', 'bad', 'picture', 'quality', 'worst', 'sound', 'bad']",1,"Worst tv brothers konoddu..
+Servicing number one worst
+Picture quality worst
+Sound worst",2,2
+2765,2765,['bad'],1,Worst,2,2
+2772,2772,"['really', 'bad']",1,Really bad,2,2
+2773,2773,"['bad', 'product', 'buy', 'flipkart']",1,Very very bad products don't buy Flipkart,2,1
+2785,2785,['bad'],1,Worst,2,2
+2791,2791,"['bad', 'experience', 'flipkart']",1,worst experience with flipkart,2,1
+2792,2792,"['good', 'picture', 'quality', 'bad']",1,Not good.. picture quality is too bad.,2,1
+2802,2802,"['bad', 'tv']",1,Bad tv,2,2
+2809,2809,"['bad', 'product', 'sound', 'quality', 'picture', 'quality', 'poor', 'bad', 'lg', 'product']",1,Worst product sound quality and picture Quality very poor and bad Lg product,2,1
+2812,2812,['bad'],1,Bad,2,2
+2828,2828,"['picture', 'quality', 'bad']",2,Picture quality bad,2,1
+2840,2840,"['bad', 'picture', 'quality']",1,Worst Picture quality,2,1
+2841,2841,['bad'],1,Very bad,2,2
+2845,2845,"['product', 'good', 'service', 'bad']",1,This product good but services is very bad,2,1
+2846,2846,"['bad', 'product', 'happy', 'expect', 'flipkart', 'service']",1,Worst product Im not happy I was not expected to Flipkart this service.,2,1
+2946,2946,"['bad', 'ever', 'buy', 'lg', 'product', 'beg', 'installation', 'tv', 'slow', 'view', 'angel', 'bad']",1,Worst ever. Do not buy Lg product. You have to beg them for installation. Tv is very slow and view angel is worst,2,2
+2956,2956,"['bad', 'condition']",1,Very bad condition,2,2
+2957,2957,"['bad', 'lg', 'receive', 'va', 'panel', 'tv', 'watch', 'cricket', 'bad', 'memc', 'bad', 'work']",1,Very bad from Lg. I have received VA panel 55 tv and when watching cricket is very bad memc worst working,2,2
+2968,2968,['bad'],1,Worst,2,2
+2972,2972,"['bad', 'tv', 'brother', 'konoddu', 'service', 'number', 'one', 'bad', 'picture', 'quality', 'worst', 'sound', 'bad']",1,"Worst tv brothers konoddu..
+Servicing number one worst
+Picture quality worst
+Sound worst",2,2
+2983,2983,['bad'],1,Worst,2,2
+2990,2990,"['really', 'bad']",1,Really bad,2,2
+2991,2991,"['bad', 'product', 'buy', 'flipkart']",1,Very very bad products don't buy Flipkart,2,1
+3003,3003,['bad'],1,Worst,2,2
+3009,3009,"['bad', 'experience', 'flipkart']",1,worst experience with flipkart,2,1
+3010,3010,"['good', 'picture', 'quality', 'bad']",1,Not good.. picture quality is too bad.,2,1
+3020,3020,"['bad', 'tv']",1,Bad tv,2,2
+3027,3027,"['bad', 'product', 'sound', 'quality', 'picture', 'quality', 'poor', 'bad', 'lg', 'product']",1,Worst product sound quality and picture Quality very poor and bad Lg product,2,1
+3030,3030,['bad'],1,Bad,2,2
+3046,3046,"['picture', 'quality', 'bad']",2,Picture quality bad,2,1
+3064,3064,"['bad', 'ever', 'buy', 'lg', 'product', 'beg', 'installation', 'tv', 'slow', 'view', 'angel', 'bad']",1,Worst ever. Do not buy Lg product. You have to beg them for installation. Tv is very slow and view angel is worst,2,2
+3074,3074,"['bad', 'condition']",1,Very bad condition,2,2
+3075,3075,"['bad', 'lg', 'receive', 'va', 'panel', 'tv', 'watch', 'cricket', 'bad', 'memc', 'bad', 'work']",1,Very bad from Lg. I have received VA panel 55 tv and when watching cricket is very bad memc worst working,2,2
+3086,3086,['bad'],1,Worst,2,2
+3090,3090,"['bad', 'tv', 'brother', 'konoddu', 'service', 'number', 'one', 'bad', 'picture', 'quality', 'worst', 'sound', 'bad']",1,"Worst tv brothers konoddu..
+Servicing number one worst
+Picture quality worst
+Sound worst",2,2
+3101,3101,['bad'],1,Worst,2,2
+3108,3108,"['really', 'bad']",1,Really bad,2,2
+3109,3109,"['bad', 'product', 'buy', 'flipkart']",1,Very very bad products don't buy Flipkart,2,1
+3121,3121,['bad'],1,Worst,2,2
+3127,3127,"['bad', 'experience', 'flipkart']",1,worst experience with flipkart,2,1
+3128,3128,"['good', 'picture', 'quality', 'bad']",1,Not good.. picture quality is too bad.,2,1
+3138,3138,"['bad', 'tv']",1,Bad tv,2,2
+3145,3145,"['bad', 'product', 'sound', 'quality', 'picture', 'quality', 'poor', 'bad', 'lg', 'product']",1,Worst product sound quality and picture Quality very poor and bad Lg product,2,1
+3148,3148,['bad'],1,Bad,2,2
+3164,3164,"['picture', 'quality', 'bad']",2,Picture quality bad,2,1
+3182,3182,"['bad', 'ever', 'buy', 'lg', 'product', 'beg', 'installation', 'tv', 'slow', 'view', 'angel', 'bad']",1,Worst ever. Do not buy Lg product. You have to beg them for installation. Tv is very slow and view angel is worst,2,2
+3192,3192,"['bad', 'condition']",1,Very bad condition,2,2
+3193,3193,"['bad', 'lg', 'receive', 'va', 'panel', 'tv', 'watch', 'cricket', 'bad', 'memc', 'bad', 'work']",1,Very bad from Lg. I have received VA panel 55 tv and when watching cricket is very bad memc worst working,2,2
+3204,3204,['bad'],1,Worst,2,2
+3208,3208,"['bad', 'tv', 'brother', 'konoddu', 'service', 'number', 'one', 'bad', 'picture', 'quality', 'worst', 'sound', 'bad']",1,"Worst tv brothers konoddu..
+Servicing number one worst
+Picture quality worst
+Sound worst",2,2
+3219,3219,['bad'],1,Worst,2,2
+3226,3226,"['really', 'bad']",1,Really bad,2,2
+3227,3227,"['bad', 'product', 'buy', 'flipkart']",1,Very very bad products don't buy Flipkart,2,1
+3239,3239,['bad'],1,Worst,2,2
+3245,3245,"['bad', 'experience', 'flipkart']",1,worst experience with flipkart,2,1
+3246,3246,"['good', 'picture', 'quality', 'bad']",1,Not good.. picture quality is too bad.,2,1
+3256,3256,"['bad', 'tv']",1,Bad tv,2,2
+3263,3263,"['bad', 'product', 'sound', 'quality', 'picture', 'quality', 'poor', 'bad', 'lg', 'product']",1,Worst product sound quality and picture Quality very poor and bad Lg product,2,1
+3266,3266,['bad'],1,Bad,2,2
+3282,3282,"['picture', 'quality', 'bad']",2,Picture quality bad,2,1
+3297,3297,"['bad', 'tv']",1,Bad tv,2,2
+3397,3397,"['bad', 'tv']",1,Bad tv,2,2
+3507,3507,['bad'],1,Bad,2,2
+3518,3518,['bad'],1,Very bad,2,2
+3542,3542,"['well', 'bad']",3,Better. Not bad,2,2
+3682,3682,['bad'],4,Not bad,2,2
+3707,3707,"['bad', 'performance']",1,Bad performance 😕🤮,2,2
+3711,3711,"['bad', 'product']",1,bad product,2,1
+3724,3724,"['body', 'bad', 'quality']",1,Body is very bad quality,2,1
+3725,3725,"['bad', 'product', 'since', 'purchase', 'never', 'work', 'good']",1,very bad product. since i purchase never work good.,2,1
+3727,3727,['bad'],1,Very bad,2,2
+3735,3735,['bad'],1,Worst,2,2
+3763,3763,['bad'],1,Bad,2,2
+3764,3764,"['bad', 'product', 'ever', 'wash', 'clothes']",1,Worst product ever does not wash clothes,2,4
+3766,3766,['bad'],1,Very worst,2,2
+3767,3767,"['bad', 'product', 'please', 'purchase', 'anyone']",1,Very bad product please not purchase anyone,2,1
+3774,3774,"['bad', 'quality']",1,very bad quality,2,1
+3775,3775,"['product', 'good', 'delivery', 'experience', 'bad']",1,Product is good but delivery experience is very bad.,2,1
+3792,3792,"['bad', 'product']",1,Very bad product,2,1
+3795,3795,"['wash', 'machine', 'good', 'get', 'instal', 'yet', 'bad', 'experience', 'service']",1,Washing machine is good but it didn't get installed yet... Very bad experience with the services,2,3
+3800,3800,"['bad', 'buy', 'product', 'fully', 'disappointed']",1,Worst don't buy this product fully disappointed,2,2
+3804,3804,"['still', 'wait', 'installation', 'lg', 'installation', 'service', 'bad', 'product', 'may', 'good', 'service', 'bad', 'thanks', 'lg', 'service', 'give', 'nice', 'bad', 'experience', 'next', 'time', 'twice', 'tink', 'buy', 'product', 'mistake', 'go']",1,Still im waiting for installation. LG installation services is very bad. Product may be good but service is bad.. Thanks to lg service for a giving a such nice bad experience. Next time twice to tink before buy your products. My mistake to go with you.,2,3
+3813,3813,"['buy', 'flipcart', 'bad', 'experience']",1,Don't buy from flipcart very bad experience,2,1
+3814,3814,"['bad', 'product', 'product', 'service', 'week']",1,Very bad product this product service is very week,2,1
+3818,3818,"['bad', 'performance']",1,Bad performance 😕🤮,2,2
+3822,3822,"['bad', 'product']",1,bad product,2,1
+3835,3835,"['body', 'bad', 'quality']",1,Body is very bad quality,2,1
+3836,3836,"['bad', 'product', 'since', 'purchase', 'never', 'work', 'good']",1,very bad product. since i purchase never work good.,2,1
+3838,3838,['bad'],1,Very bad,2,2
+3846,3846,['bad'],1,Worst,2,2
+3874,3874,['bad'],1,Bad,2,2
+3875,3875,"['bad', 'product', 'ever', 'wash', 'clothes']",1,Worst product ever does not wash clothes,2,4
+3877,3877,['bad'],1,Very worst,2,2
+3878,3878,"['bad', 'product', 'please', 'purchase', 'anyone']",1,Very bad product please not purchase anyone,2,1
+3885,3885,"['bad', 'quality']",1,very bad quality,2,1
+3886,3886,"['product', 'good', 'delivery', 'experience', 'bad']",1,Product is good but delivery experience is very bad.,2,1
+3903,3903,"['bad', 'product']",1,Very bad product,2,1
+3906,3906,"['wash', 'machine', 'good', 'get', 'instal', 'yet', 'bad', 'experience', 'service']",1,Washing machine is good but it didn't get installed yet... Very bad experience with the services,2,3
+3911,3911,"['bad', 'buy', 'product', 'fully', 'disappointed']",1,Worst don't buy this product fully disappointed,2,2
+3915,3915,"['still', 'wait', 'installation', 'lg', 'installation', 'service', 'bad', 'product', 'may', 'good', 'service', 'bad', 'thanks', 'lg', 'service', 'give', 'nice', 'bad', 'experience', 'next', 'time', 'twice', 'tink', 'buy', 'product', 'mistake', 'go']",1,Still im waiting for installation. LG installation services is very bad. Product may be good but service is bad.. Thanks to lg service for a giving a such nice bad experience. Next time twice to tink before buy your products. My mistake to go with you.,2,3
+3924,3924,"['buy', 'flipcart', 'bad', 'experience']",1,Don't buy from flipcart very bad experience,2,1
+3925,3925,"['bad', 'product', 'product', 'service', 'week']",1,Very bad product this product service is very week,2,1
+3927,3927,"['bad', 'pro']",1,Bad pro,2,2
+3933,3933,['bad'],1,Very bad,2,2
+3942,3942,"['lg', 'bad']",1,Lg bad,2,2
+3945,3945,"['bad', 'product']",1,Bad product,2,1
+3949,3949,"['bad', 'product', 'flipkart', 'accept', 'return', 'bad', 'service']",1,Bad product and flipkart not accepting return bad service,2,1
+3959,3959,"['bad', 'product', 'speed', 'wash', 'bad', 'bad', 'product']",1,Very bad product no speed washing. Very bad bad product,2,4
+3961,3961,['bad'],1,Worst,2,2
+3964,3964,"['power', 'totally', 'bad', 'experience']",1,"Dont have power.
+Totally very bad experience",2,2
+3974,3974,['bad'],1,bad,2,2
+3978,3978,"['buy', 'bad']",1,"Don't buy it, it's too worst",2,2
+3982,3982,"['bad', 'material']",1,Bad material,2,2
+3988,3988,"['bad', 'experience', 'wash', 'part', 'work', 'within', 'one', 'use', 'return', 'product']",2,A very bad experience .Washing part is not working within one use. Can't return the product 😡,2,4
+3989,3989,"['bad', 'product']",2,Bad product,2,1
+4029,4029,"['bad', 'performance']",1,Bad performance 😕🤮,2,2
+4033,4033,"['bad', 'product']",1,bad product,2,1
+4046,4046,"['body', 'bad', 'quality']",1,Body is very bad quality,2,1
+4047,4047,"['bad', 'product', 'since', 'purchase', 'never', 'work', 'good']",1,very bad product. since i purchase never work good.,2,1
+4049,4049,['bad'],1,Very bad,2,2
+4057,4057,['bad'],1,Worst,2,2
+4085,4085,['bad'],1,Bad,2,2
+4086,4086,"['bad', 'product', 'ever', 'wash', 'clothes']",1,Worst product ever does not wash clothes,2,4
+4088,4088,['bad'],1,Very worst,2,2
+4089,4089,"['bad', 'product', 'please', 'purchase', 'anyone']",1,Very bad product please not purchase anyone,2,1
+4096,4096,"['bad', 'quality']",1,very bad quality,2,1
+4097,4097,"['product', 'good', 'delivery', 'experience', 'bad']",1,Product is good but delivery experience is very bad.,2,1
+4114,4114,"['bad', 'product']",1,Very bad product,2,1
+4117,4117,"['wash', 'machine', 'good', 'get', 'instal', 'yet', 'bad', 'experience', 'service']",1,Washing machine is good but it didn't get installed yet... Very bad experience with the services,2,3
+4122,4122,"['bad', 'buy', 'product', 'fully', 'disappointed']",1,Worst don't buy this product fully disappointed,2,2
+4126,4126,"['still', 'wait', 'installation', 'lg', 'installation', 'service', 'bad', 'product', 'may', 'good', 'service', 'bad', 'thanks', 'lg', 'service', 'give', 'nice', 'bad', 'experience', 'next', 'time', 'twice', 'tink', 'buy', 'product', 'mistake', 'go']",1,Still im waiting for installation. LG installation services is very bad. Product may be good but service is bad.. Thanks to lg service for a giving a such nice bad experience. Next time twice to tink before buy your products. My mistake to go with you.,2,3
+4135,4135,"['buy', 'flipcart', 'bad', 'experience']",1,Don't buy from flipcart very bad experience,2,1
+4136,4136,"['bad', 'product', 'product', 'service', 'week']",1,Very bad product this product service is very week,2,1
+4145,4145,['bad'],1,Bad,2,2
+4175,4175,"['bad', 'maintenance']",1,Very bad maintenance,2,2
+4176,4176,"['bad', 'quality']",1,Bad quality,2,1
+4177,4177,['bad'],1,Very bad,2,2
+4179,4179,"['bad', 'wash', 'neatly', 'bad', 'product']",1,"Worst, does not wash neatly very Worst product",2,2
+4183,4183,['bad'],1,Very bad...,2,2
+4184,4184,"['bad', 'experience']",1,Very bad experience..,2,1
+4191,4191,['bad'],1,Not bad,2,2
+4217,4217,"['product', 'good', 'flipkart', 'service', 'bad']",2,"Product is good but
+Flipkart service is bad",2,1
+4246,4246,['bad'],1,Bad,2,2
+4276,4276,"['bad', 'maintenance']",1,Very bad maintenance,2,2
+4277,4277,"['bad', 'quality']",1,Bad quality,2,1
+4278,4278,['bad'],1,Very bad,2,2
+4280,4280,"['bad', 'wash', 'neatly', 'bad', 'product']",1,"Worst, does not wash neatly very Worst product",2,2
+4284,4284,['bad'],1,Very bad...,2,2
+4285,4285,"['bad', 'experience']",1,Very bad experience..,2,1
+4292,4292,['bad'],1,Not bad,2,2
+4318,4318,"['product', 'good', 'flipkart', 'service', 'bad']",2,"Product is good but
+Flipkart service is bad",2,1
+4345,4345,"['bad', 'product', 'noisy']",1,Worst product... Very noisy,2,2
+4447,4447,['bad'],1,Worst,2,2
+4647,4647,['bad'],1,Bad,2,2
+4677,4677,"['bad', 'maintenance']",1,Very bad maintenance,2,2
+4678,4678,"['bad', 'quality']",1,Bad quality,2,1
+4679,4679,['bad'],1,Very bad,2,2
+4681,4681,"['bad', 'wash', 'neatly', 'bad', 'product']",1,"Worst, does not wash neatly very Worst product",2,2
+4685,4685,['bad'],1,Very bad...,2,2
+4686,4686,"['bad', 'experience']",1,Very bad experience..,2,1
+4693,4693,['bad'],1,Not bad,2,2
+4719,4719,"['product', 'good', 'flipkart', 'service', 'bad']",2,"Product is good but
+Flipkart service is bad",2,1
+4740,4740,"['bad', 'build', 'quality']",1,"Very bad, build quality 👎👎👎",2,1
+4742,4742,"['bad', 'product']",1,Bad product,2,1
+4755,4755,['bad'],3,Not bad,2,2
+4802,4802,['bad'],4,Not bad,2,2
+4843,4843,"['bad', 'performance']",1,Bad performance 😕🤮,2,2
+4847,4847,"['bad', 'product']",1,bad product,2,1
+4860,4860,"['body', 'bad', 'quality']",1,Body is very bad quality,2,1
+4861,4861,"['bad', 'product', 'since', 'purchase', 'never', 'work', 'good']",1,very bad product. since i purchase never work good.,2,1
+4863,4863,['bad'],1,Very bad,2,2
+4871,4871,['bad'],1,Worst,2,2
+4899,4899,['bad'],1,Bad,2,2
+4900,4900,"['bad', 'product', 'ever', 'wash', 'clothes']",1,Worst product ever does not wash clothes,2,4
+4902,4902,['bad'],1,Very worst,2,2
+4903,4903,"['bad', 'product', 'please', 'purchase', 'anyone']",1,Very bad product please not purchase anyone,2,1
+4910,4910,"['bad', 'quality']",1,very bad quality,2,1
+4911,4911,"['product', 'good', 'delivery', 'experience', 'bad']",1,Product is good but delivery experience is very bad.,2,1
+4928,4928,"['bad', 'product']",1,Very bad product,2,1
+4931,4931,"['wash', 'machine', 'good', 'get', 'instal', 'yet', 'bad', 'experience', 'service']",1,Washing machine is good but it didn't get installed yet... Very bad experience with the services,2,3
+4936,4936,"['bad', 'buy', 'product', 'fully', 'disappointed']",1,Worst don't buy this product fully disappointed,2,2
+4940,4940,"['still', 'wait', 'installation', 'lg', 'installation', 'service', 'bad', 'product', 'may', 'good', 'service', 'bad', 'thanks', 'lg', 'service', 'give', 'nice', 'bad', 'experience', 'next', 'time', 'twice', 'tink', 'buy', 'product', 'mistake', 'go']",1,Still im waiting for installation. LG installation services is very bad. Product may be good but service is bad.. Thanks to lg service for a giving a such nice bad experience. Next time twice to tink before buy your products. My mistake to go with you.,2,3
+4949,4949,"['buy', 'flipcart', 'bad', 'experience']",1,Don't buy from flipcart very bad experience,2,1
+4950,4950,"['bad', 'product', 'product', 'service', 'week']",1,Very bad product this product service is very week,2,1
+4959,4959,['bad'],1,Bad,2,2
+4989,4989,"['bad', 'maintenance']",1,Very bad maintenance,2,2
+4990,4990,"['bad', 'quality']",1,Bad quality,2,1
+4991,4991,['bad'],1,Very bad,2,2
+4993,4993,"['bad', 'wash', 'neatly', 'bad', 'product']",1,"Worst, does not wash neatly very Worst product",2,2
+4997,4997,['bad'],1,Very bad...,2,2
+4998,4998,"['bad', 'experience']",1,Very bad experience..,2,1
+5005,5005,['bad'],1,Not bad,2,2
+5031,5031,"['product', 'good', 'flipkart', 'service', 'bad']",2,"Product is good but
+Flipkart service is bad",2,1
+5523,5523,"['bad', 'product', 'bad', 'service']",1,Worst product worst service,2,1
+5531,5531,"['cool', 'ac', 'bad']",1,Cooling of this ac is worst,2,3
+5571,5571,"['bad', 'experience', 'lg']",1,Very bad experience with LG,2,1
+5597,5597,['bad'],1,Worst,2,2
+5693,5693,"['well', 'bad']",3,It's better not bad,2,2
+5918,5918,"['bad', 'product', 'lg', 'never', 'buy', 'bad', 'customer', 'service', 'particularly', 'gurgaon', 'bad', 'team', 'technician', 'manager', 'know', 'talk', 'customer', 'worst', 'experience']",1,"Worst product from LG never buy, worst customer service particularly in Gurgaon the worst team they have from technicians to Manager, they don’t know how to talk to customers. Worst experience",2,4
+5950,5950,"['bad', 'product']",1,Bad product,2,1
+6243,6243,"['bad', 'product', 'stop', 'work', 'one', 'year']",1,Worst product it stops working after one year.,2,4
+6256,6256,['bad'],3,Not bad,2,2
+6292,6292,"['bad', 'experience', 'product', 'waste', 'money']",1,Very worst experience for the product waste of money,2,1
+6306,6306,"['bad', 'product']",1,Very bad products 👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎👎,2,1
+6320,6320,['bad'],1,Very Bad,2,2
+6378,6378,"['quality', 'bad', 'send', 'damage', 'dented', 'product', 'previous', 'review', 'also', 'remove', 'write', 'bad', 'product', 'give']",1,Quality was bad sent me a damaged and dented product. My previous review was also removed because i wrote about how bad their product given was,2,4
+6426,6426,"['bad', 'product', 'stop', 'work', 'within', 'month', 'purchase']",1,Worst product.... stopped working within 8 months of purchase,2,4
+6436,6436,"['month', 'buy', 'fridge', 'shut', 'day', 'say', 'part', 'available', 'please', 'buy', 'lg', 'product', 'go', 'samsung', 'lg', 'brand', 'bad', 'bad', 'bad']",1,"After 2 months of buy
+Fridge shut down
+And after 10 days they said part is not available now
+Please don’t buy any LG product
+
+Go for samsung
+LG Brand
+Is
+Bad
+Worse
+Worst",2,1
+6446,6446,"['bad', 'product', 'poor', 'service', 'amazon', 'one', 'come', 'installation']",1,"Bad product, poor service by Amazon, no one comes for installation.",2,2
+6447,6447,['bad'],1,Bad,2,2
+6483,6483,['bad'],3,Very Bad,2,2
+6540,6540,"['bad', 'experience', 'broken', 'tv', 'come']",2,Very bad experience to me broken TV come,2,4
+6572,6572,['bad'],2,To bad,2,2
+6649,6649,"['call', 'product', 'installation', 'bad', 'company', 'ever', 'one', 'answer', 'customer', 'care', 'lg', 'worst', 'service', 'bad', 'producta']",1,"No calls for product installation, worst company ever, no one answers from customer care, LG worst service and worst producta",2,2
+6652,6652,"['sound', 'quality', 'bad']",1,Sound quality very bad,2,1
+6683,6683,['bad'],3,Very Bad,2,2
+6740,6740,"['bad', 'experience', 'broken', 'tv', 'come']",2,Very bad experience to me broken TV come,2,4
+6772,6772,['bad'],2,To bad,2,2
+6783,6783,['bad'],3,Very Bad,2,2
+6840,6840,"['bad', 'experience', 'broken', 'tv', 'come']",2,Very bad experience to me broken TV come,2,4
+6872,6872,['bad'],2,To bad,2,2
+6949,6949,"['call', 'product', 'installation', 'bad', 'company', 'ever', 'one', 'answer', 'customer', 'care', 'lg', 'worst', 'service', 'bad', 'producta']",1,"No calls for product installation, worst company ever, no one answers from customer care, LG worst service and worst producta",2,2
+6952,6952,"['sound', 'quality', 'bad']",1,Sound quality very bad,2,1
+7049,7049,"['call', 'product', 'installation', 'bad', 'company', 'ever', 'one', 'answer', 'customer', 'care', 'lg', 'worst', 'service', 'bad', 'producta']",1,"No calls for product installation, worst company ever, no one answers from customer care, LG worst service and worst producta",2,2
+7052,7052,"['sound', 'quality', 'bad']",1,Sound quality very bad,2,1
+7149,7149,"['call', 'product', 'installation', 'bad', 'company', 'ever', 'one', 'answer', 'customer', 'care', 'lg', 'worst', 'service', 'bad', 'producta']",1,"No calls for product installation, worst company ever, no one answers from customer care, LG worst service and worst producta",2,2
+7152,7152,"['sound', 'quality', 'bad']",1,Sound quality very bad,2,1
+7249,7249,"['call', 'product', 'installation', 'bad', 'company', 'ever', 'one', 'answer', 'customer', 'care', 'lg', 'worst', 'service', 'bad', 'producta']",1,"No calls for product installation, worst company ever, no one answers from customer care, LG worst service and worst producta",2,2
+7252,7252,"['sound', 'quality', 'bad']",1,Sound quality very bad,2,1
+7349,7349,"['call', 'product', 'installation', 'bad', 'company', 'ever', 'one', 'answer', 'customer', 'care', 'lg', 'worst', 'service', 'bad', 'producta']",1,"No calls for product installation, worst company ever, no one answers from customer care, LG worst service and worst producta",2,2
+7352,7352,"['sound', 'quality', 'bad']",1,Sound quality very bad,2,1
+7511,7511,"['lg', 'product', 'service', 'bad']",1,Lg product and after service is very bad,2,1
+7726,7726,"['bad', 'product']",1,Worst product,2,1
+7729,7729,['bad'],3,Not bad,2,2
+7811,7811,"['lg', 'product', 'service', 'bad']",1,Lg product and after service is very bad,2,1
+7935,7935,"['overall', 'product', 'bad']",3,Overall the product is bad,2,4
+8018,8018,['bad'],1,Very bad,2,2
+8115,8115,"['bad', 'product', 'give', 'problem', 'day']",1,Very bad product . giving problems from day 1,2,4

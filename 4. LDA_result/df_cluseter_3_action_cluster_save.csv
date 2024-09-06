@@ -1,0 +1,615 @@
+,Unnamed: 0,text,star,original,cluster,action_cluster
+25,25,"['good', 'product']",1,Not good products,3,1
+83,83,['good'],1,Not good,3,2
+105,105,"['good', 'product']",1,Not good product,3,1
+139,139,['good'],3,👍👍👍 good,3,2
+140,140,['good'],3,Good,3,2
+142,142,['good'],3,Good,3,2
+148,148,"['good', 'product']",4,Over all a good product,3,1
+150,150,"['good', 'product']",4,Very good product,3,1
+162,162,"['good', 'performance']",4,good performance,3,3
+170,170,['good'],4,Good,3,2
+179,179,['good'],4,Good,3,2
+188,188,"['cool', 'good']",4,Cooling it's good,3,1
+190,190,"['good', 'product']",4,Good product,3,1
+225,225,"['good', 'product']",1,Not good products,3,1
+283,283,['good'],1,Not good,3,2
+325,325,"['good', 'product']",1,Not good products,3,1
+383,383,['good'],1,Not good,3,2
+428,428,['good'],3,Good,3,2
+439,439,"['good', 'ac']",4,Good AC,3,2
+440,440,['good'],4,Good,3,2
+445,445,"['good', 'product']",4,Good Product,3,1
+446,446,['good'],4,Good,3,2
+447,447,['good'],4,Good,3,2
+453,453,"['good', 'purchase']",4,Good to purchase,3,3
+455,455,['good'],4,Very good,3,2
+456,456,"['good', 'product']",4,Good product,3,1
+477,477,['good'],5,Good,3,2
+482,482,['good'],5,Good,3,2
+484,484,"['good', 'product']",5,Good Product,3,1
+488,488,"['good', 'ac', 'go']",5,"Good ac, go for it",3,2
+493,493,['good'],5,Good 👍,3,2
+494,494,['good'],5,Very good,3,2
+525,525,"['good', 'product']",1,Not good products,3,1
+583,583,['good'],1,Not good,3,2
+625,625,"['good', 'product']",1,Not good products,3,1
+683,683,['good'],1,Not good,3,2
+709,709,"['good', 'product']",4,Good product,3,1
+710,710,['good'],4,Good,3,2
+711,711,['good'],4,Very good,3,2
+713,713,"['good', 'product']",4,Good product,3,1
+718,718,['good'],5,Very good,3,2
+727,727,"['product', 'good']",5,Product is good,3,1
+729,729,['good'],5,VERY GOOD,3,2
+732,732,['good'],5,Good,3,2
+735,735,['good'],5,Very good,3,2
+736,736,['good'],5,Good,3,2
+739,739,"['cool', 'good', 'go']",5,"Cooling very good, just go for it.",3,1
+740,740,"['good', 'ac']",5,Good AC,3,2
+749,749,"['good', 'product']",1,Not good product,3,1
+783,783,['good'],3,👍👍👍 good,3,2
+784,784,['good'],3,Good,3,2
+786,786,['good'],3,Good,3,2
+792,792,"['good', 'product']",4,Over all a good product,3,1
+794,794,"['good', 'product']",4,Very good product,3,1
+806,806,"['good', 'performance']",4,good performance,3,3
+814,814,['good'],4,Good,3,2
+823,823,['good'],4,Good,3,2
+832,832,"['cool', 'good']",4,Cooling it's good,3,1
+834,834,"['good', 'product']",4,Good product,3,1
+869,869,"['good', 'product']",1,Not good products,3,1
+927,927,['good'],1,Not good,3,2
+969,969,"['good', 'product']",1,Not good products,3,1
+1027,1027,['good'],1,Not good,3,2
+1054,1054,"['good', 'product', 'lg', 'good', 'service', 'do', 'flipkart']",1,good product from lg and good service done by flipkart,3,4
+1097,1097,['good'],1,No good,3,2
+1127,1127,['good'],2,Not good,3,2
+1169,1169,"['good', 'product']",1,Not good products,3,1
+1227,1227,['good'],1,Not good,3,2
+1245,1245,"['good', 'product']",1,Not good product,3,1
+1275,1275,"['good', 'buy']",3,its very good 💯 can't to buy,3,4
+1276,1276,['good'],3,Good,3,2
+1277,1277,['good'],3,Good,3,2
+1278,1278,['good'],3,Good,3,2
+1284,1284,['good'],3,Good,3,2
+1287,1287,['good'],3,Good,3,2
+1288,1288,['good'],3,Good,3,2
+1290,1290,['good'],3,Good 👍,3,2
+1293,1293,['good'],3,Good,3,2
+1304,1304,"['good', 'product']",3,Good product,3,1
+1308,1308,['good'],3,Good,3,2
+1312,1312,['good'],4,Good,3,2
+1314,1314,"['good', 'product']",4,Good product,3,1
+1316,1316,"['good', 'performance']",4,Over all very good performance,3,3
+1317,1317,['good'],4,Good,3,2
+1318,1318,['good'],4,It's good,3,2
+1321,1321,['good'],4,Good,3,2
+1323,1323,['good'],4,Good,3,2
+1327,1327,"['good', 'product']",4,good product,3,1
+1328,1328,['good'],4,Good,3,2
+1329,1329,['good'],4,Good,3,2
+1332,1332,['good'],4,Good,3,2
+1333,1333,"['good', 'product']",4,Good product,3,1
+1334,1334,['good'],4,Good,3,2
+1335,1335,['good'],4,Good,3,2
+1336,1336,['good'],4,Good,3,2
+1338,1338,['good'],4,Good,3,2
+1339,1339,['good'],4,Good,3,2
+1340,1340,['good'],4,Good,3,2
+1360,1360,"['good', 'product']",2,Good product,3,1
+1362,1362,['good'],3,Good,3,2
+1363,1363,"['ok', 'good']",3,Ok good,3,3
+1364,1364,['good'],3,Good,3,2
+1366,1366,['good'],3,Good,3,2
+1368,1368,"['good', 'product']",3,Good product,3,1
+1389,1389,['good'],4,Good,3,2
+1390,1390,"['good', 'product']",4,Good product,3,1
+1391,1391,['good'],4,Good,3,2
+1392,1392,['good'],4,Good n,3,2
+1394,1394,"['good', 'product']",4,Good product,3,1
+1395,1395,"['good', 'product']",4,Good product,3,1
+1404,1404,['good'],4,Good,3,2
+1407,1407,['good'],4,Good,3,2
+1409,1409,"['good', 'product']",4,Good product 👍👍,3,1
+1413,1413,['good'],4,Good 😊,3,2
+1417,1417,['good'],4,Good,3,2
+1423,1423,"['good', 'design', 'good', 'capacity']",4,Very good design and good capacity,3,2
+1425,1425,['good'],4,All Over Good👍😊,3,2
+1426,1426,['good'],4,Good,3,2
+1428,1428,['good'],4,Good,3,2
+1435,1435,['good'],4,Good,3,2
+1436,1436,['good'],4,Good,3,2
+1438,1438,['good'],4,Good,3,2
+1449,1449,['good'],4,Good,3,2
+1451,1451,"['good', 'product']",4,Good product,3,1
+1456,1456,['good'],4,Good 👍👍,3,2
+1458,1458,['good'],5,Good,3,2
+1462,1462,['good'],5,Good,3,2
+1465,1465,"['good', 'product', 'like']",5,very good product I like it,3,4
+1466,1466,['good'],5,Good,3,2
+1469,1469,"['good', 'product', 'nice', 'service', 'good', 'good', 'nice', 'lg', 'good']",5,V good product nice service good v good nice lg good 💯,3,2
+1472,1472,['good'],5,Good,3,2
+1476,1476,['good'],5,Good,3,2
+1477,1477,['good'],5,good,3,2
+1480,1480,"['product', 'good']",5,Product is good,3,1
+1481,1481,['good'],5,Very Very Good,3,2
+1484,1484,"['good', 'product']",5,Very good product 💯,3,1
+1515,1515,['good'],1,Not good,3,2
+1532,1532,"['good', 'product']",1,Not good product,3,1
+1546,1546,"['good', 'product', 'go']",1,Very good product go for it,3,1
+1567,1567,['good'],2,Not Good,3,2
+1584,1584,"['good', 'product', 'one', 'good', 'light', 'freezer']",3,It' is good product but only one is not good there is no light in freezer,3,3
+1615,1615,['good'],1,Not good,3,2
+1632,1632,"['good', 'product']",1,Not good product,3,1
+1646,1646,"['good', 'product', 'go']",1,Very good product go for it,3,1
+1667,1667,['good'],2,Not Good,3,2
+1684,1684,"['good', 'product', 'one', 'good', 'light', 'freezer']",3,It' is good product but only one is not good there is no light in freezer,3,3
+1720,1720,['good'],1,Not good,3,2
+1748,1748,['good'],3,Good,3,2
+1756,1756,"['good', 'product', 'good', 'digain']",3,Good product good Digain,3,1
+1757,1757,"['good', 'product', 'lg']",3,Good product LG,3,1
+1759,1759,['good'],3,Very good,3,2
+1761,1761,['good'],3,Good,3,2
+1762,1762,['good'],3,Good,3,2
+1769,1769,"['good', 'quality', 'product']",3,Good quality products,3,1
+1775,1775,['good'],3,Good,3,2
+1778,1778,['good'],3,good,3,2
+1780,1780,['good'],3,Good,3,2
+1781,1781,['good'],3,Good,3,2
+1784,1784,"['cool', 'good']",3,"Cooling is not good,",3,1
+1785,1785,['good'],3,Good,3,2
+1786,1786,"['good', 'product']",3,Good product,3,1
+1788,1788,"['ok', 'good']",3,Ok good,3,3
+1797,1797,['good'],1,Not good,3,2
+1803,1803,"['good', 'one', 'price']",1,Not a good one for this price,3,3
+1809,1809,"['good', 'product']",3,Good product,3,1
+1810,1810,['good'],3,Good,3,2
+1815,1815,['good'],4,Good,3,2
+1817,1817,['good'],4,Good,3,2
+1818,1818,"['good', 'product']",4,Good product,3,1
+1819,1819,['good'],4,Good,3,2
+1822,1822,"['good', 'product']",4,Good product,3,1
+1825,1825,['good'],4,Good,3,2
+1829,1829,"['good', 'product']",4,Good product.,3,1
+1830,1830,['good'],4,Good,3,2
+1831,1831,['good'],4,Good,3,2
+1834,1834,"['quality', 'good']",4,Quality is very good,3,3
+1840,1840,['good'],4,Good 👍😊,3,2
+1841,1841,"['good', 'quality']",4,Good quality,3,3
+1842,1842,['good'],4,Good,3,2
+1848,1848,"['good', 'product']",4,Good product,3,1
+1849,1849,['good'],4,Very good 😊,3,2
+1853,1853,"['good', 'product']",4,good products,3,1
+1855,1855,['good'],4,Good..,3,2
+1861,1861,"['good', 'product']",5,Very good Product 😀,3,1
+1869,1869,"['good', 'product']",5,Very good product,3,1
+1871,1871,"['good', 'product']",5,Good product,3,1
+1872,1872,['good'],5,Good,3,2
+1879,1879,['good'],5,Very very good 💯,3,2
+1886,1886,['good'],5,Good 👍,3,2
+1887,1887,['good'],5,Very good,3,2
+1889,1889,['good'],5,Good,3,2
+1890,1890,['good'],5,Very good 👍👍👍👍👍,3,2
+1915,1915,['good'],1,Not good,3,2
+1932,1932,"['good', 'product']",1,Not good product,3,1
+1946,1946,"['good', 'product', 'go']",1,Very good product go for it,3,1
+1967,1967,['good'],2,Not Good,3,2
+1984,1984,"['good', 'product', 'one', 'good', 'light', 'freezer']",3,It' is good product but only one is not good there is no light in freezer,3,3
+2007,2007,"['good', 'product']",2,Good product,3,1
+2009,2009,['good'],3,Good,3,2
+2010,2010,"['ok', 'good']",3,Ok good,3,3
+2011,2011,['good'],3,Good,3,2
+2013,2013,['good'],3,Good,3,2
+2015,2015,"['good', 'product']",3,Good product,3,1
+2036,2036,['good'],4,Good,3,2
+2037,2037,"['good', 'product']",4,Good product,3,1
+2038,2038,['good'],4,Good,3,2
+2039,2039,['good'],4,Good n,3,2
+2041,2041,"['good', 'product']",4,Good product,3,1
+2042,2042,"['good', 'product']",4,Good product,3,1
+2051,2051,['good'],4,Good,3,2
+2054,2054,['good'],4,Good,3,2
+2056,2056,"['good', 'product']",4,Good product 👍👍,3,1
+2060,2060,['good'],4,Good 😊,3,2
+2064,2064,['good'],4,Good,3,2
+2070,2070,"['good', 'design', 'good', 'capacity']",4,Very good design and good capacity,3,2
+2072,2072,['good'],4,All Over Good👍😊,3,2
+2073,2073,['good'],4,Good,3,2
+2075,2075,['good'],4,Good,3,2
+2082,2082,['good'],4,Good,3,2
+2083,2083,['good'],4,Good,3,2
+2085,2085,['good'],4,Good,3,2
+2093,2093,['good'],1,Not good,3,2
+2107,2107,['good'],2,Not good,3,2
+2113,2113,['good'],3,good,3,2
+2120,2120,"['good', 'product']",3,Good product,3,1
+2128,2128,['good'],4,Very good,3,2
+2134,2134,['good'],4,Good,3,2
+2135,2135,['good'],4,Good,3,2
+2138,2138,['good'],4,Good,3,2
+2141,2141,"['good', 'product']",4,Good product 👍👍,3,1
+2142,2142,['good'],4,Good,3,2
+2148,2148,['good'],4,Good,3,2
+2151,2151,['good'],4,Good,3,2
+2157,2157,"['good', 'product']",4,Good product,3,1
+2160,2160,['good'],4,Very good,3,2
+2166,2166,['good'],4,Good,3,2
+2167,2167,['good'],4,Good,3,2
+2168,2168,['good'],4,Good,3,2
+2169,2169,"['product', 'good']",4,Product is good,3,1
+2170,2170,['good'],4,Good,3,2
+2171,2171,['good'],4,Good,3,2
+2172,2172,"['good', 'product']",4,Good product,3,1
+2175,2175,['good'],4,Good,3,2
+2178,2178,['good'],4,Very good,3,2
+2180,2180,['good'],4,Good,3,2
+2183,2183,"['good', 'refrigerator']",4,Good Refrigerator,3,3
+2184,2184,"['good', 'product']",4,Good product,3,1
+2185,2185,['good'],4,Good,3,2
+2186,2186,"['good', 'purchase']",4,good purchase,3,3
+2210,2210,['good'],2,good,3,2
+2214,2214,['good'],3,good,3,2
+2231,2231,['good'],3,Good,3,2
+2232,2232,['good'],3,very good,3,2
+2238,2238,"['good', 'product']",3,Good product,3,1
+2240,2240,['good'],3,Good,3,2
+2241,2241,"['good', 'product']",3,good product,3,1
+2246,2246,['good'],4,good,3,2
+2249,2249,"['good', 'product']",4,good product,3,1
+2258,2258,['good'],4,Good,3,2
+2264,2264,"['lg', 'good']",4,Lg is good,3,4
+2274,2274,['good'],4,Good,3,2
+2279,2279,['good'],4,Good,3,2
+2281,2281,['good'],4,Very very good,3,2
+2282,2282,"['product', 'good', 'product', 'performance', 'good']",4,Product is good and this product performance is good,3,1
+2286,2286,"['good', 'product']",4,Good product,3,1
+2320,2320,['good'],1,Not good,3,2
+2348,2348,['good'],3,Good,3,2
+2356,2356,"['good', 'product', 'good', 'digain']",3,Good product good Digain,3,1
+2357,2357,"['good', 'product', 'lg']",3,Good product LG,3,1
+2359,2359,['good'],3,Very good,3,2
+2361,2361,['good'],3,Good,3,2
+2362,2362,['good'],3,Good,3,2
+2369,2369,"['good', 'quality', 'product']",3,Good quality products,3,1
+2375,2375,['good'],3,Good,3,2
+2378,2378,['good'],3,good,3,2
+2380,2380,['good'],3,Good,3,2
+2381,2381,['good'],3,Good,3,2
+2384,2384,"['cool', 'good']",3,"Cooling is not good,",3,1
+2385,2385,['good'],3,Good,3,2
+2386,2386,"['good', 'product']",3,Good product,3,1
+2388,2388,"['ok', 'good']",3,Ok good,3,3
+2451,2451,['good'],2,Not Good,3,2
+2454,2454,['good'],2,Very good 😊,3,2
+2470,2470,"['good', 'product']",3,Very good product,3,1
+2479,2479,['good'],3,Good,3,2
+2482,2482,['good'],3,Good,3,2
+2489,2489,['good'],3,Good,3,2
+2502,2502,"['ok', 'good']",4,OK good,3,3
+2505,2505,"['good', 'product']",4,Good product,3,1
+2514,2514,['good'],4,All good,3,2
+2518,2518,['good'],4,Good 👍,3,2
+2521,2521,['good'],4,Good,3,2
+2526,2526,"['good', 'product']",4,Good product.,3,1
+2530,2530,['good'],4,Good 👍,3,2
+2535,2535,"['good', 'product']",4,Good product,3,1
+2536,2536,['good'],4,Good,3,2
+2538,2538,"['good', 'product']",4,very Good product,3,1
+2544,2544,['good'],2,Very good 😊,3,2
+2616,2616,['good'],2,Not Good,3,2
+2619,2619,['good'],2,Very good 😊,3,2
+2635,2635,"['good', 'product']",3,Very good product,3,1
+2644,2644,['good'],3,Good,3,2
+2647,2647,['good'],3,Good,3,2
+2654,2654,['good'],3,Good,3,2
+2667,2667,"['ok', 'good']",4,OK good,3,3
+2670,2670,"['good', 'product']",4,Good product,3,1
+2679,2679,['good'],4,All good,3,2
+2683,2683,['good'],4,Good 👍,3,2
+2686,2686,['good'],4,Good,3,2
+2691,2691,"['good', 'product']",4,Good product.,3,1
+2695,2695,['good'],4,Good 👍,3,2
+2700,2700,"['good', 'product']",4,Good product,3,1
+2701,2701,['good'],4,Good,3,2
+2703,2703,"['good', 'product']",4,very Good product,3,1
+2709,2709,['good'],2,Very good 😊,3,2
+2820,2820,"['good', 'item', 'picture', 'quality', 'good']",1,"Not good item
+Picture quality is not good",3,3
+2833,2833,"['good', 'quality']",4,Good Quality,3,3
+2859,2859,"['sound', 'good']",3,Sound was not good,3,2
+2862,2862,['good'],3,Good,3,2
+2863,2863,['good'],3,Good,3,2
+2867,2867,"['ok', 'good']",3,Ok good,3,3
+2874,2874,['good'],3,Good 👍👍,3,2
+2876,2876,"['product', 'good', 'delivery', 'also', 'good', 'installation', 'time', 'information', 'good']",3,"Product is Good, Delivery also good but installation not on time, information not good...",3,1
+2882,2882,['good'],3,Good,3,2
+2883,2883,['good'],3,GOOD,3,2
+2886,2886,"['good', 'product']",4,Good Product,3,1
+2908,2908,"['good', 'price']",4,Good price,3,3
+2910,2910,['good'],4,Good,3,2
+2911,2911,['good'],4,Good,3,2
+2913,2913,"['good', 'product']",4,Good product 👌,3,1
+2914,2914,['good'],4,Good,3,2
+2915,2915,['good'],4,Good,3,2
+2926,2926,['good'],4,Good,3,2
+2930,2930,['good'],4,Very good,3,2
+2932,2932,"['good', 'product']",4,Very good Product,3,1
+2936,2936,['good'],4,Good,3,2
+3038,3038,"['good', 'item', 'picture', 'quality', 'good']",1,"Not good item
+Picture quality is not good",3,3
+3051,3051,"['good', 'quality']",4,Good Quality,3,3
+3156,3156,"['good', 'item', 'picture', 'quality', 'good']",1,"Not good item
+Picture quality is not good",3,3
+3169,3169,"['good', 'quality']",4,Good Quality,3,3
+3274,3274,"['good', 'item', 'picture', 'quality', 'good']",1,"Not good item
+Picture quality is not good",3,3
+3287,3287,"['good', 'quality']",4,Good Quality,3,3
+3305,3305,['good'],3,Good,3,2
+3313,3313,['good'],4,Too good,3,2
+3315,3315,['good'],4,Good,3,2
+3318,3318,['good'],4,Very good,3,2
+3319,3319,['good'],4,Very good 👍,3,2
+3329,3329,['good'],4,Good,3,2
+3335,3335,['good'],4,Good,3,2
+3336,3336,['good'],4,Good 👍,3,2
+3337,3337,['good'],4,Good,3,2
+3338,3338,['good'],4,Good,3,2
+3347,3347,['good'],4,Good,3,2
+3352,3352,['good'],5,All good,3,2
+3357,3357,['good'],5,Good,3,2
+3365,3365,"['tv', 'good']",5,Tv is good,3,2
+3373,3373,['good'],5,Very good,3,2
+3386,3386,"['good', 'product']",5,Very good product,3,1
+3405,3405,['good'],3,Good,3,2
+3413,3413,['good'],4,Too good,3,2
+3415,3415,['good'],4,Good,3,2
+3418,3418,['good'],4,Very good,3,2
+3419,3419,['good'],4,Very good 👍,3,2
+3429,3429,['good'],4,Good,3,2
+3435,3435,['good'],4,Good,3,2
+3436,3436,['good'],4,Good 👍,3,2
+3437,3437,['good'],4,Good,3,2
+3438,3438,['good'],4,Good,3,2
+3447,3447,['good'],4,Good,3,2
+3452,3452,['good'],5,All good,3,2
+3457,3457,['good'],5,Good,3,2
+3465,3465,"['tv', 'good']",5,Tv is good,3,2
+3473,3473,['good'],5,Very good,3,2
+3486,3486,"['good', 'product']",5,Very good product,3,1
+3534,3534,"['work', 'good']",3,Working good,3,3
+3536,3536,"['ok', 'good']",3,Only ok not good,3,3
+3541,3541,['good'],3,Good,3,2
+3544,3544,"['good', 'product']",3,Good product,3,1
+3547,3547,['good'],3,Good.,3,2
+3550,3550,"['good', 'product']",3,Good product,3,1
+3557,3557,['good'],3,Good,3,2
+3588,3588,['good'],4,Good,3,2
+3626,3626,['good'],3,Good,3,2
+3628,3628,"['good', 'quality', 'product', 'lg', 'good', 'sound', 'installation', 'good', 'little', 'lagging', 'problem']",3,"Good quality product in lg very good sound
+Installation is very good but little lagging problem",3,1
+3632,3632,['good'],3,Good,3,2
+3639,3639,['good'],3,Good,3,2
+3640,3640,['good'],3,Good,3,2
+3651,3651,"['good', 'lg', 'product']",4,Very good LG product,3,1
+3654,3654,"['good', 'picture']",4,Good picture,3,3
+3661,3661,"['good', 'quality']",4,Very good quality,3,3
+3663,3663,['good'],4,Good 👍,3,2
+3668,3668,"['good', 'tv']",4,Good tv,3,2
+3676,3676,['good'],4,Very good....,3,2
+3691,3691,"['good', 'product']",4,Good product,3,1
+3710,3710,"['good', 'product', 'expect']",1,Not a good product as expected,3,2
+3733,3733,"['product', 'good', 'buy']",1,Product is not good don't buy it,3,4
+3757,3757,"['good', 'product']",1,Not good product,3,1
+3780,3780,['good'],1,Not good,3,2
+3821,3821,"['good', 'product', 'expect']",1,Not a good product as expected,3,2
+3844,3844,"['product', 'good', 'buy']",1,Product is not good don't buy it,3,4
+3868,3868,"['good', 'product']",1,Not good product,3,1
+3891,3891,['good'],1,Not good,3,2
+3929,3929,['good'],1,Not good,3,2
+3937,3937,['good'],1,Not good,3,2
+3947,3947,"['good', 'product']",1,Good product,3,1
+3977,3977,"['quality', 'good']",1,Quality not good,3,3
+3979,3979,['good'],1,Not so good,3,2
+3990,3990,"['quality', 'good']",2,Quality is not good,3,3
+4008,4008,['good'],3,Good,3,2
+4014,4014,['good'],3,Good,3,2
+4017,4017,"['good', 'good', 'nice']",3,Good good nice,3,2
+4032,4032,"['good', 'product', 'expect']",1,Not a good product as expected,3,2
+4055,4055,"['product', 'good', 'buy']",1,Product is not good don't buy it,3,4
+4079,4079,"['good', 'product']",1,Not good product,3,1
+4102,4102,['good'],1,Not good,3,2
+4173,4173,['good'],1,Not good,3,2
+4178,4178,"['good', 'product', 'must', 'buy']",1,Good Product 👍 Must Buy,3,4
+4197,4197,['good'],1,Not at all good,3,2
+4222,4222,"['good', 'product']",3,Good product,3,1
+4230,4230,"['ok', 'good']",3,Ok Good,3,3
+4234,4234,"['good', 'performance']",3,Not better performance,3,3
+4236,4236,['good'],3,Good,3,2
+4274,4274,['good'],1,Not good,3,2
+4279,4279,"['good', 'product', 'must', 'buy']",1,Good Product 👍 Must Buy,3,4
+4298,4298,['good'],1,Not at all good,3,2
+4323,4323,"['good', 'product']",3,Good product,3,1
+4331,4331,"['ok', 'good']",3,Ok Good,3,3
+4335,4335,"['good', 'performance']",3,Not better performance,3,3
+4337,4337,['good'],3,Good,3,2
+4358,4358,['good'],3,Good,3,2
+4362,4362,"['good', 'product']",3,Good product,3,1
+4365,4365,['good'],3,Good,3,2
+4367,4367,['good'],3,Good,3,2
+4369,4369,"['good', 'product']",3,Very Good product,3,1
+4374,4374,"['good', 'value', 'money', 'work', 'good']",4,"very good value of money, work is very good 👍",3,3
+4375,4375,"['good', 'performance']",4,GOOD PERFORMANCE👍👍👍,3,3
+4377,4377,['good'],4,Good,3,2
+4383,4383,['good'],4,Good,3,2
+4384,4384,['good'],4,Good,3,2
+4387,4387,"['experience', 'good', 'product']",4,All over experience is good for this products.,3,2
+4392,4392,"['good', 'product']",4,Good product,3,1
+4397,4397,"['good', 'product']",4,Good Product,3,1
+4399,4399,['good'],4,Good,3,2
+4406,4406,['good'],4,Good,3,2
+4411,4411,"['good', 'product']",4,Good product,3,1
+4412,4412,['good'],4,Very good 👍,3,2
+4413,4413,['good'],4,Good,3,2
+4416,4416,['good'],4,Very good 👍🏻,3,2
+4418,4418,['good'],4,Good,3,2
+4421,4421,"['good', 'quality']",4,Good quality,3,3
+4425,4425,['good'],4,Good,3,2
+4427,4427,['good'],4,Good,3,2
+4434,4434,['good'],4,Good,3,2
+4435,4435,['good'],4,Very good,3,2
+4437,4437,['good'],4,Good,3,2
+4463,4463,['good'],3,Good,3,2
+4484,4484,"['good', 'product']",4,This is Good product,3,1
+4487,4487,['good'],4,Good,3,2
+4488,4488,['good'],4,Good,3,2
+4493,4493,['good'],4,It's good 👍,3,2
+4495,4495,['good'],4,Very good,3,2
+4496,4496,"['good', 'product']",4,Good product,3,1
+4503,4503,"['good', 'product']",4,Good product,3,1
+4504,4504,"['good', 'product']",4,It is very good product 👌,3,1
+4505,4505,"['good', 'product']",4,Good product,3,1
+4506,4506,"['good', 'product']",4,good product,3,1
+4515,4515,"['good', 'product']",4,Good product,3,1
+4517,4517,"['good', 'product']",4,Good product,3,1
+4521,4521,['good'],4,Good,3,2
+4523,4523,['good'],4,Good,3,2
+4524,4524,['good'],4,Good,3,2
+4528,4528,"['good', 'performance', 'look', 'also', 'good']",4,Good performance and looking also good,3,3
+4529,4529,['good'],4,Good,3,2
+4531,4531,"['good', 'life', 'good']",4,Good life's good,3,3
+4538,4538,['good'],4,Good,3,2
+4539,4539,"['good', 'product']",1,Not good product 😔,3,1
+4548,4548,['good'],3,Good,3,2
+4549,4549,"['good', 'product']",3,Good product,3,1
+4550,4550,['good'],3,Good,3,2
+4552,4552,['good'],3,Good,3,2
+4560,4560,['good'],4,Good,3,2
+4561,4561,['good'],4,Very good,3,2
+4565,4565,['good'],4,Good,3,2
+4568,4568,['good'],4,Very good this,3,2
+4569,4569,['good'],4,Good 😊😊,3,2
+4570,4570,['good'],4,👍 good,3,2
+4573,4573,['good'],4,Very good,3,2
+4576,4576,"['lg', 'always', 'good', 'product']",4,LG always good product,3,1
+4578,4578,['good'],4,Over all good,3,2
+4580,4580,['good'],4,V good,3,2
+4582,4582,['good'],4,Good,3,2
+4583,4583,"['good', 'product']",4,Good Product,3,1
+4585,4585,"['good', 'product', 'good', 'design', 'good', 'quality', 'good', 'performance', 'value', 'money']",4,It's good product. Good design. Good quality. Good performance. Value of money,3,3
+4587,4587,"['product', 'good']",4,Product is good,3,1
+4590,4590,['good'],4,Good 👍,3,2
+4592,4592,['good'],4,It's a good,3,2
+4595,4595,['good'],4,Good,3,2
+4597,4597,"['good', 'product']",4,Good product,3,1
+4601,4601,['good'],4,Good,3,2
+4605,4605,['good'],4,Very good,3,2
+4607,4607,"['good', 'product']",4,Good product,3,1
+4611,4611,"['product', 'good']",4,This product is good,3,1
+4616,4616,"['good', 'product']",5,Good product,3,1
+4621,4621,['good'],5,All over good,3,2
+4623,4623,"['good', 'product']",5,Good product 👌 😄,3,1
+4633,4633,['good'],5,Good,3,2
+4637,4637,['good'],5,Very good,3,2
+4675,4675,['good'],1,Not good,3,2
+4680,4680,"['good', 'product', 'must', 'buy']",1,Good Product 👍 Must Buy,3,4
+4699,4699,['good'],1,Not at all good,3,2
+4724,4724,"['good', 'product']",3,Good product,3,1
+4732,4732,"['ok', 'good']",3,Ok Good,3,3
+4736,4736,"['good', 'performance']",3,Not better performance,3,3
+4738,4738,['good'],3,Good,3,2
+4741,4741,"['good', 'buy']",1,No good don't buy,3,4
+4754,4754,"['good', 'machine']",3,Good machine.,3,1
+4756,4756,['good'],3,Good,3,2
+4757,4757,['good'],3,Good,3,2
+4762,4762,"['good', 'product']",4,Very good product,3,1
+4765,4765,"['good', 'product']",4,Good product,3,1
+4766,4766,['good'],4,Good 👍,3,2
+4779,4779,"['good', 'product']",4,Good product,3,1
+4781,4781,"['good', 'product']",4,Good products 👌,3,1
+4784,4784,"['good', 'performance']",4,It is very good performance,3,3
+4787,4787,['good'],4,Good,3,2
+4789,4789,['good'],4,Good,3,2
+4792,4792,['good'],4,Good,3,2
+4793,4793,['good'],4,Good,3,2
+4796,4796,['good'],4,Very good,3,2
+4798,4798,['good'],4,Good,3,2
+4799,4799,['good'],4,Very good,3,2
+4801,4801,"['good', 'product', 'good', 'work', 'good', 'use']",4,Good product Good working good to use,3,2
+4808,4808,"['good', 'quality']",4,Good quality,3,3
+4809,4809,['good'],4,Good,3,2
+4821,4821,['good'],5,Very good,3,2
+4825,4825,"['good', 'product']",5,Very good product 🙂,3,1
+4835,4835,"['good', 'product']",5,Very good product,3,1
+4838,4838,"['good', 'product']",5,Very good product,3,1
+4846,4846,"['good', 'product', 'expect']",1,Not a good product as expected,3,2
+4869,4869,"['product', 'good', 'buy']",1,Product is not good don't buy it,3,4
+4893,4893,"['good', 'product']",1,Not good product,3,1
+4916,4916,['good'],1,Not good,3,2
+4987,4987,['good'],1,Not good,3,2
+4992,4992,"['good', 'product', 'must', 'buy']",1,Good Product 👍 Must Buy,3,4
+5011,5011,['good'],1,Not at all good,3,2
+5036,5036,"['good', 'product']",3,Good product,3,1
+5044,5044,"['ok', 'good']",3,Ok Good,3,3
+5048,5048,"['good', 'performance']",3,Not better performance,3,3
+5050,5050,['good'],3,Good,3,2
+5055,5055,['good'],3,Good,3,2
+5155,5155,['good'],3,Good,3,2
+5265,5265,['good'],3,Good,3,2
+5641,5641,"['quality', 'good']",1,Quality is not good,3,3
+5712,5712,['good'],3,Good,3,2
+5751,5751,['good'],3,Good,3,2
+5783,5783,"['good', 'product']",3,Good product,3,1
+5801,5801,"['product', 'good', 'delivery']",1,Product is good delivery is not .,3,1
+5802,5802,"['cool', 'good']",1,Cooling is not good,3,1
+5807,5807,"['good', 'product']",3,Good now my products,3,1
+5894,5894,"['good', 'much', 'good']",3,Just good not so much but good,3,1
+5921,5921,['good'],3,Good,3,2
+5967,5967,"['good', 'product']",3,Good product,3,1
+5980,5980,['good'],3,Good,3,2
+6008,6008,['good'],3,Good,3,2
+6011,6011,"['good', 'performance']",3,Good performance,3,3
+6048,6048,['good'],3,good,3,2
+6124,6124,"['good', 'product']",1,Not good product,3,1
+6238,6238,"['good', 'product']",3,Very good product,3,1
+6260,6260,['good'],3,Good,3,2
+6262,6262,['good'],3,Good,3,2
+6277,6277,"['product', 'work', 'good']",2,Product working good,3,1
+6290,6290,['good'],2,Good,3,2
+6297,6297,"['good', 'product']",1,Not so good product,3,1
+6303,6303,['good'],1,Good no 1,3,2
+6386,6386,"['good', 'product']",3,Good product.,3,1
+6388,6388,['good'],3,Good,3,2
+6475,6475,"['good', 'apps', 'color', 'good', 'sound', 'quality', 'good']",3,"Good Apps, Color not too good and Sound quality not too good.",3,2
+6498,6498,"['tv', 'nice', 'colour', 'good', 'good', 'good']",3,This TV is very nice but colour are not very good good but good 😊,3,2
+6516,6516,"['good', 'product']",3,Good product,3,1
+6551,6551,"['good', 'one', 'good', 'price']",3,Good one with good price,3,3
+6593,6593,['good'],3,Good,3,2
+6630,6630,['good'],3,Good,3,2
+6675,6675,"['good', 'apps', 'color', 'good', 'sound', 'quality', 'good']",3,"Good Apps, Color not too good and Sound quality not too good.",3,2
+6698,6698,"['tv', 'nice', 'colour', 'good', 'good', 'good']",3,This TV is very nice but colour are not very good good but good 😊,3,2
+6716,6716,"['good', 'product']",3,Good product,3,1
+6751,6751,"['good', 'one', 'good', 'price']",3,Good one with good price,3,3
+6775,6775,"['good', 'apps', 'color', 'good', 'sound', 'quality', 'good']",3,"Good Apps, Color not too good and Sound quality not too good.",3,2
+6798,6798,"['tv', 'nice', 'colour', 'good', 'good', 'good']",3,This TV is very nice but colour are not very good good but good 😊,3,2
+6816,6816,"['good', 'product']",3,Good product,3,1
+6851,6851,"['good', 'one', 'good', 'price']",3,Good one with good price,3,3
+6893,6893,['good'],3,Good,3,2
+6930,6930,['good'],3,Good,3,2
+6993,6993,['good'],3,Good,3,2
+7030,7030,['good'],3,Good,3,2
+7093,7093,['good'],3,Good,3,2
+7130,7130,['good'],3,Good,3,2
+7193,7193,['good'],3,Good,3,2
+7230,7230,['good'],3,Good,3,2
+7293,7293,['good'],3,Good,3,2
+7330,7330,['good'],3,Good,3,2
+7546,7546,"['product', 'good']",3,Product is Good,3,1
+7620,7620,"['lg', 'product', 'good']",3,Lg all Products All Goods,3,1
+7718,7718,['good'],2,Not good,3,2
+7862,7862,['good'],3,Good,3,2
+7878,7878,['good'],3,Good,3,2
+7904,7904,['good'],3,Good,3,2
+7959,7959,"['ok', 'good']",3,Ok but not good,3,3
+8052,8052,['good'],3,Good,3,2
+8057,8057,"['good', 'product']",3,Good product,3,1
